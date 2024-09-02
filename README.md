@@ -13,7 +13,8 @@ Intro to story telling with LLMs for the Christa McAuliffe Space Education Cente
 * [link to colab notebook](https://github.com/murdo25/CMSEC-AI/blob/main/Intro_to_Few_Shot_Prompting.ipynb)
 
 --------
-
+# Slides
+* [link to google slides](https://docs.google.com/presentation/d/1BS6xiYoD7R8LGqqHQLt3rIAjrAFHXDkhevfk4-3MGhM/edit?usp=sharing)
 
 --------
 ## Citations
